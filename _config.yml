@@ -1,0 +1,8 @@
+title: Derekbrown.github.io
+description: GitHub Pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
